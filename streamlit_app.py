@@ -1,4 +1,4 @@
-import streamlit_app as st
+import streamlit as st
 from streamlit_agraph import agraph, Node, Edge, Config
 
 st.set_page_config(layout='wide')
